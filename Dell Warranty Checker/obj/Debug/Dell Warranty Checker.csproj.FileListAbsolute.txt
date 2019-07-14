@@ -1,0 +1,12 @@
+C:\Work\Move\Dell Warranty Checer Redux\Dell Warranty Checker\Dell Warranty Checker\bin\Debug\Dell Warranty Checker.exe.config
+C:\Work\Move\Dell Warranty Checer Redux\Dell Warranty Checker\Dell Warranty Checker\bin\Debug\Dell Warranty Checker.exe
+C:\Work\Move\Dell Warranty Checer Redux\Dell Warranty Checker\Dell Warranty Checker\bin\Debug\Dell Warranty Checker.pdb
+C:\Work\Move\Dell Warranty Checer Redux\Dell Warranty Checker\Dell Warranty Checker\obj\Debug\Dell Warranty Checker.csprojResolveAssemblyReference.cache
+C:\Work\Move\Dell Warranty Checer Redux\Dell Warranty Checker\Dell Warranty Checker\obj\Debug\Dell_Warranty_Checker.Properties.Resources.resources
+C:\Work\Move\Dell Warranty Checer Redux\Dell Warranty Checker\Dell Warranty Checker\obj\Debug\Dell Warranty Checker.csproj.GenerateResource.Cache
+C:\Work\Move\Dell Warranty Checer Redux\Dell Warranty Checker\Dell Warranty Checker\obj\Debug\Dell Warranty Checker.csproj.CoreCompileInputs.cache
+C:\Work\Move\Dell Warranty Checer Redux\Dell Warranty Checker\Dell Warranty Checker\obj\Debug\Dell Warranty Checker.exe
+C:\Work\Move\Dell Warranty Checer Redux\Dell Warranty Checker\Dell Warranty Checker\obj\Debug\Dell Warranty Checker.pdb
+C:\Work\Move\Dell Warranty Checer Redux\Dell Warranty Checker\Dell Warranty Checker\bin\Debug\Newtonsoft.Json.dll
+C:\Work\Move\Dell Warranty Checer Redux\Dell Warranty Checker\Dell Warranty Checker\bin\Debug\Newtonsoft.Json.xml
+C:\Work\Move\Dell Warranty Checer Redux\Dell Warranty Checker\Dell Warranty Checker\obj\Debug\Dell_Warranty_Checker.MainForm.resources
